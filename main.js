@@ -55,7 +55,7 @@ const sectionDOMBuilder = () => {
             
             row.appendChild(list)
             
-            messagesBodyRef.appendChild(div)
+            messagesBodyRef.appendChild(row)
         }
     )
 }
